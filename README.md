@@ -42,5 +42,6 @@
 <h2>Notes</h2>
 
 <p>
-  Developed entirely from scratch as a quick yet insightful project to explore model building, evaluation workflows, and architectural caveats.
+  Developed entirely from scratch as a quick yet insightful project to explore model building, evaluation workflows, and architectural caveats. A rather great learning opportunity. If you wish to know more about the project, please reach out to me.
+  Thanks for your time.
 </p>
