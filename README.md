@@ -22,7 +22,7 @@
 <h2>Usage</h2>
 
 <ul>
-  <li><strong>Pretrained Model:</strong> <code>best_model.keras</code> — ready for direct use</li>
+  <li><strong>Final Output Model:</strong> <code>best_model.keras</code> — ready for direct use</li>
   <li><strong>Training Notebook:</strong> <code>tumor-csot.ipynb</code> — for retraining and experimentation</li>
   <li><strong>Additional Resources:</strong> Final Training Report, Class activation maps, model documentation within report.</li>
 </ul>
@@ -42,6 +42,6 @@
 <h2>Notes</h2>
 
 <p>
-  Developed entirely from scratch as a quick yet insightful project to explore model building, evaluation workflows, and architectural caveats. A rather great learning opportunity. If you wish to know more about the project, please reach out to me.
+  Developed entirely from scratch as a quick yet insightful project to explore model building, evaluation workflows, and architectural caveats. A rather great learning opportunity. If you wish to know more about the project, please reach out to me.<br>
   Thanks for your time.
 </p>
